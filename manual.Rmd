@@ -1,0 +1,26 @@
+---
+title: "Project Manual"
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      error = TRUE)
+```
+
+# Procedures for sending follow-up messages to participants
+
+If after one week (7 days)...
+1. Participants have opened the survey but not consented to participate, mark them as an excused absence in SONA and do not grant them any extra credit.
+1. Participants have consented to participate but not completed the survey, send them the following:
+Hi,
+
+This is the DevPsy Lab! We noticed you started to complete our SONA survey, Developing a Novel Measure of Behavior, but did not finish it. We were wondering whether you wanted to complete the survey and receive the full 2 points of extra credit, or whether you wanted to stop and receive partial extra credit. Please do let us know! If you do not reply within 2 days, we will grant you partial credit and you will not be able to finish the survey.
+Your survey link is:
+And your return code is:
+
+Thank you!
+Developmental Psychopathology Lab
+University of Iowa
+Department of Psychological and Brain Sciences
+  - If participants do not respond after two days, mark them as an excused absence and grant them partial credit.
+    - Grant a point for every hour participants spent completing the survey, rounded up to the nearest 0.5.
