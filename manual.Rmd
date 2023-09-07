@@ -14,13 +14,14 @@ If after one week (7 days)...
 1. Participants have opened the survey but not consented to participate, mark them as an excused absence in SONA and do not grant them any extra credit.
 1. Participants have consented to participate but not completed the survey, send them the following email from the study email address (PBS-devpsy-spectrum@uiowa.edu):
 
-
 ```
+Subject: Survey Reminder
+
 Hi,
 
 This is the DevPsy Lab! We noticed you started to complete our SONA survey, Developing a Novel Measure of Behavior, but did not finish it. We were wondering whether you wanted to complete the survey and receive the full 2 points of extra credit, or whether you wanted to stop and receive partial extra credit. Please do let us know! If you do not reply within 2 days, we will grant you partial credit and you will not be able to finish the survey.
 Your survey link is: [INSERT]
-And your return code is: [INSERT]
+For privacy reasons, we have not included your return code; please do let us know if you need it.
 
 Thank you!
 Developmental Psychopathology Lab
